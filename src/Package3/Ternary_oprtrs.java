@@ -12,6 +12,7 @@ public class Ternary_oprtrs {
 		String y = (age >= 18) ? "Eligible" : "Not eligible";
 		System.out.println(y);
 		
+		//Swapping numbers
 		int c = 10, d = 20;
 		int e;
 		e = c;
