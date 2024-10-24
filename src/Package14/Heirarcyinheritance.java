@@ -29,7 +29,7 @@ public class Heirarcyinheritance {
 		
 		HB objhb = new HB();
 		System.out.println(objhb.a);
-		System.out.println(objhb.b);
+		System.out.println(objhb.b); 
 		objhb.HAM1();
 		objhb.HBM1();
 		HC objhc = new HC();
