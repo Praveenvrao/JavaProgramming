@@ -34,7 +34,7 @@ public class single_two_dim_array_asn {
 		*/
 		
 		// Check given number is prime number or not
-		int a[] = {1,2,4,5,6,7,9,11,14,66, 89,57};
+		int a[] = {1,2,4,5,6,7,9,11,14,66,89,20,57};
 		int i;
 		int j;
 		for (i=0; i<a.length;i++) {
