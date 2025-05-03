@@ -4,7 +4,7 @@ public class Switchcase_statements {
 
 	public static void main(String[] args) {
 		// Switch case statement
-		int weekno = 66;
+		int weekno = 99;
 		switch (weekno) {
 		case 1 : System.out.println("Sunday"); break;
 		case 2 : System.out.println("Monday"); break;
